@@ -51,3 +51,22 @@ hr {
   position: relative !important
 }
 
+.specDiv {
+  margin-bottom: 1.8rem;
+  margin-top: 1rem;
+}
+
+a {
+  color: green;
+  text-decoration: none;
+}
+
+a:hover {
+  color: red;
+}
+
+.navLink {
+  display: inline-block;
+  margin: 1.2rem 2rem;
+}
+
