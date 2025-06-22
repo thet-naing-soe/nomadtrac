@@ -32,3 +32,22 @@ hr {
   font-size: 0.7rem;
 }
 
+.heroDiv {
+  margin: 1rem auto 3rem auto;
+  max-width: 80%;
+}
+
+.heroDiv img {
+  position: relative !important
+}
+
+.thumbnailDiv {
+  margin: 1rem auto 3rem auto;
+  max-width: 30%;
+  position: relative;
+}      
+
+.thumbnailDiv img {
+  position: relative !important
+}
+
